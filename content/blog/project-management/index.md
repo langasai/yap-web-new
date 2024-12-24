@@ -20,7 +20,7 @@ Hugo Blox supports a Markdown extension for mindmaps.
 Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
 
 Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
- 
+
 <div class="highlight">
 <pre class="chroma">
 <code>
